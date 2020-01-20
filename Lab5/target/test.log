@@ -1,0 +1,42 @@
+13:22:09.235 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: -9223372036854775808 
+13:22:09.238 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+13:22:09.238 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId start, param: 
+13:22:09.238 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId end, return: -9223372036854775808
+13:22:10.238 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: 9223372036854775807 
+13:22:10.239 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+13:46:08.947 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: -9223372036854775808 
+13:46:08.949 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+13:46:08.949 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId start, param: 
+13:46:08.950 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId end, return: -9223372036854775808
+13:46:09.950 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: 9223372036854775807 
+13:46:09.950 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+13:55:28.209 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: -9223372036854775808 
+13:55:28.211 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+13:55:28.212 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId start, param: 
+13:55:28.212 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId end, return: -9223372036854775808
+13:55:29.212 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: 9223372036854775807 
+13:55:29.213 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+14:03:35.243 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: -9223372036854775808 
+14:03:35.245 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+14:03:35.245 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId start, param: 
+14:03:35.246 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId end, return: -9223372036854775808
+14:03:36.246 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: 9223372036854775807 
+14:03:36.246 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+14:04:06.546 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: -9223372036854775808 
+14:04:06.548 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+14:04:06.548 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId start, param: 
+14:04:06.548 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId end, return: -9223372036854775808
+14:04:07.549 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: 9223372036854775807 
+14:04:07.549 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+14:11:07.509 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: -9223372036854775808 
+14:11:07.512 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+14:11:07.512 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId start, param: 
+14:11:07.512 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId end, return: -9223372036854775808
+14:11:08.512 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: 9223372036854775807 
+14:11:08.513 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+19:14:11.555 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: -9223372036854775808 
+19:14:11.557 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
+19:14:11.558 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId start, param: 
+19:14:11.558 INFO  ru.rsatu.lab5.AnnotationDemo - Method getId end, return: -9223372036854775808
+19:14:12.558 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId start, param: 9223372036854775807 
+19:14:12.559 INFO  ru.rsatu.lab5.AnnotationDemo - Method setId end, return: null
